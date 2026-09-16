@@ -59,10 +59,7 @@ Listas de apoio;
 Campos para entrada de informações;
 Validação e organização dos dados;
 Referências entre células.
-Estrutura do projeto
-/
-├── Planilha investimentos.xlsx
-└── README.md
+
 Objetivo de aprendizagem
 
 O desenvolvimento deste projeto possibilitou colocar em prática conhecimentos relacionados à organização e manipulação de dados no Excel, além de trabalhar com a criação de uma ferramenta voltada para uma situação prática.
